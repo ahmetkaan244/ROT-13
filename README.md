@@ -3,7 +3,7 @@ ROT-13 Programı Python 2.7 ile yazılmıştır.
 Hiçbir eklenti gerekmemektedir 
 
 Kurulum 
-Windows
+Windows için :
 Code>Download Zip 
 İçindekileri Dışarı Çıkartıyoruz
 Klasöre shift+sağ tık yapıp Powershellde çalıştırıyoruz 
